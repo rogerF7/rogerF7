@@ -2,7 +2,6 @@
 - 👀 I’m interested in ... getting the gist of coding
 - 🌱 I’m currently learning ... JavaScript
 - 💞️ I’m looking to collaborate on ... still too inexperienced to get involved in anything ;)
-- 📫 How to reach me ... my mail should be visible.
 
 <!---
 rogerF7/rogerF7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
