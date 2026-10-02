@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rogerF7
 - 👀 I’m interested in ... getting the gist of coding
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ... TS/Python/BASH scripting
 - 💞️ I’m looking to collaborate on ... still too inexperienced to get involved in anything ;)
 
 <!---
